@@ -1,0 +1,6 @@
+[user]
+	email = tomohiro.nakashima@gmail.com
+	name = tmhrnksm
+[alias]
+	co = checkout
+	ci = commit
